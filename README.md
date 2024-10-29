@@ -7,7 +7,11 @@ This is a clone version of graffias theme for conky available
 a GNOME Customization for Ubuntu 22.04 LTS as described in the available 
 [tutorial video](https://youtu.be/lXIb-1_H-mA).
 
-The configuration was modified to use API service from open-meteo.com
+The configuration was modified to use API services from :
+
+*  (Open Meteo)[https://open-meteo.com/] : forecast.
+
+* (BigData Cloud)(https://www.bigdatacloud.com/] : reverse geocoding service
 instead of openweathermap.org.
 
 ## Installation
