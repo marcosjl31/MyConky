@@ -13,7 +13,7 @@ case "$input" in
   2)
     Description="Partly Cloudy";;
   3)
-    Description="Overcast";;
+    Description="Overcast Clouds";;
   45)
     Description="Foggy";;
   48)
