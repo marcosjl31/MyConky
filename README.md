@@ -30,13 +30,13 @@ Steps to install this config are :
   ``` 
   [Desktop Entry]
   Type=Application
-  Exec=/bin/sh -c "$HOME/.config/conky/Graffias/start.sh"
+  Exec=/bin/sh -c "$HOME/.config/conky/MyConky/start.sh"
   Hidden=false
   NoDisplay=false
   X-GNOME-Autostart-enabled=true
-  Name[en_US]=Conky Graffias
-  Name=Conky Graffias Startup
-  Comment[en_US]=Conky Graffias
-  Comment=Conky Graffias
+  Name[en_US]=Conky MyConky
+  Name=Conky MyConky Startup
+  Comment[en_US]=Conky MyConky
+  Comment=Conky MyConky
   ```
 * Logout/login to relaunch Gnome WM session
