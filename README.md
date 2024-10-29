@@ -9,9 +9,9 @@ a GNOME Customization for Ubuntu 22.04 LTS as described in the available
 
 The configuration was modified to use API services from :
 
-*  (Open Meteo)[https://open-meteo.com/] : forecast.
+w  [Open Meteo](https://open-meteo.com/) : forecast.
 
-* (BigData Cloud)(https://www.bigdatacloud.com/] : reverse geocoding service
+* [BigData Cloud](https://www.bigdatacloud.com/) : reverse geocoding service
 instead of openweathermap.org.
 
 ## Installation
