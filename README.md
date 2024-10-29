@@ -23,6 +23,10 @@ Steps to install this config are :
   `cd ~$HOME/.config/conky
    git clone https://github.com/marcosjl31/MyConky.git`
 
+* Edit file ``~$HOME/.config/conky/scripts/weather.sh``
+
+  To provide correct Latitude and longitude coordinates for the city you live in.
+
 * Create autostart Desktop file
 
   Create a new file : ``$HOME/.config/autostart/start_conky.desktop`` with this content :
