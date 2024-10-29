@@ -16,7 +16,7 @@ Steps to install this config are :
 
 * **Install conky**
 
-  `sudo apt install conky-all curl`
+  `sudo apt install conky-all curl moc`
 
 * Clone this repo in ~/.config/conky
 
