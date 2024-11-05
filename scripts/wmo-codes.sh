@@ -46,13 +46,13 @@ case "$input" in
     Description="Heavy Snow";;
   77)
     Description="Snow Grains";;
-  81) 
+  80|83) 
     Description="Light Showers";;
-  83) 
+  81) 
     Description="Showers";;
-  85) 
+  82) 
     Description="Heavy showers";;
-  85) 
+  84|85) 
     Description="Light Snow Showers";;
   86) 
     Description="Snow showers";;
