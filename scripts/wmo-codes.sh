@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Usage : echo "weather-code" |descriptio.sh
+# Usage : echo "weather-code" |wmo-codes.sh
 # Gives a Description for weather code
 
 read input
@@ -27,7 +27,7 @@ case "$input" in
   56) 
     Description="Light Freezing Drizzle";;
   57) 
-    Description="Freezing Frizzle";;
+    Description="Freezing Drizzle";;
   61) 
     Description="Light Rain";;
   63) 
