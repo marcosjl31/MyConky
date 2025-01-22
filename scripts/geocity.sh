@@ -12,4 +12,5 @@ lon=`cat ~/.cache/weather.json | jq -r '.longitude'`
 #url="http://api.openweathermap.org/geo/1.0/reverse?lat={lat}&lon={lon}"
 url="https://api-bdc.net/data/reverse-geocode-client?latitude=${lat}&longitude=${lon}"
 
-curl ${url} -s 
+#curl ${url} -s 
+wget -qO - ${url}
